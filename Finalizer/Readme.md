@@ -7,14 +7,14 @@ Adding extras software for kali:<br>
 * tilix
 * tor
 
-Fixing repository error<br>
-Fixing source duplication (beta)
+Fixing repository error.<br>
+Fixing source duplication. (beta)
 
 **Version 2.1:**<br>
 Adding help option & caution notic
 
 **Version 2.0:**<br>
-Adding a menu to the shell separation System update & instaling extras
+Adding a menu to the shell separating System update & instaling extras.
 
 **Version 1.1:**<br>
 Adding extras software to the list:<br>
@@ -23,7 +23,7 @@ Adding extras software to the list:<br>
 * vim & vim-gtk3
 * sublime text 3
 
-Fixing update issue
+Fixing update issue.
 
 **Version 1:**<br>
-Birth
+Birth.
