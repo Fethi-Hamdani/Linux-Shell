@@ -3,9 +3,9 @@ This shell is used after the setup of Kali/Ubuntu Linux OS, it Update the system
 **Version 3.0:**<br>
 Adding System update to kali linux.<br>
 Adding extras software for kali:<br>
-git<br>
-tilix<br>
-tor<br>
+* git
+* tilix
+* tor
 Fixing repository error<br>
 Fixing source duplication (beta)
 
@@ -16,11 +16,11 @@ Adding help option & caution notic
 Adding a menu to the shell separation System update & instaling extras
 
 **Version 1.1:**<br>
-Adding extras software to the list<br>
-flatpak<br>
-g++<br>
-vim & vim-gtk3<br>
-sublime text 3<br>
+Adding extras software to the list:<br>
+* flatpak
+* g++
+* vim & vim-gtk3
+* sublime text 3
 Fixing update issue
 
 **Version 1:**<br>
