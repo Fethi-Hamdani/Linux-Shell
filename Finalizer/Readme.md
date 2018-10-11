@@ -6,6 +6,7 @@ Adding extras software for kali:<br>
 * git
 * tilix
 * tor
+
 Fixing repository error<br>
 Fixing source duplication (beta)
 
@@ -21,6 +22,7 @@ Adding extras software to the list:<br>
 * g++
 * vim & vim-gtk3
 * sublime text 3
+
 Fixing update issue
 
 **Version 1:**<br>
