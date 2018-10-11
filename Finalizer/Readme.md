@@ -1,3 +1,5 @@
+<img src="https://www.lifewire.com/thmb/SuiVBQs2MqQEdUReziVgq2_jdkE=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Gnu-bash-logo.svg-58c6fe745f9b58af5c8d8017.png">
+
 This shell is used after the setup of Kali/Ubuntu Linux OS, it Update the system & setup a set of essencial software.
 
 **Version 3.0:**<br>
