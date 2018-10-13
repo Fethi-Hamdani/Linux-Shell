@@ -1,4 +1,6 @@
-#!/bin/sh
+/* Fethi */
+/* don't tell me it won't work like that !? */
+#!/bin/sh 
 repos="#extras repository\n
 deb http://http.kali.org/kali kali-rolling main contrib non-free\n
 deb-src http://http.kali.org/kali kali-rolling main contrib non-free\n
